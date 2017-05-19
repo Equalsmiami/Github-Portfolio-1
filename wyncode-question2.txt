@@ -1,0 +1,12 @@
+Estimate-Ability
+
+Question:
+Reflect back on your life. How many times has something that you’ve worked on been:
+
+- more complicated than you expected
+- less complicated than you expected
+- exactly as complicated as you expected
+Do you have a tendency to underestimate, overestimate, or are you spot-on most of the time?
+
+Answer: 
+In the few freelancing jobs I taken on over the past year, I have had a tendency to over-estimate. I believe this was intended as a buffer for unforeseen complications which may occur during development. After reviewing the slides and reflecting on the in class lecture, I realize this may reflect negatively as if I am over charging the customer for my work. Moving forward, I believe I will adopt a relative estimate when setting expectations.

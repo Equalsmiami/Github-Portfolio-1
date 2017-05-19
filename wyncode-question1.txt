@@ -1,0 +1,28 @@
+My First user story 
+
+Question: 
+A user story is a tool used in Agile software development to capture a description of a software feature from an end-user perspective. The user story describes the type of user, what they want and why. A user story helps to create a simplified description of a requirement.
+
+Using the ATM example below write a similarly formatted user story as a customer of a car rental company. Include scenarios.
+
+Example user story:
+As an: Account Holder
+I want to: withdraw cash from at ATM
+So that: I can get money when the bank is closed
+
+Example scenarios:
+- The account has sufficient funds
+- The account has insufficient funds
+- The card has been disabled
+
+Answer:
+As: person traveling for leisure or work
+I want to: rent a car 
+So that: when I travel so I can explore a the city without the being bound to the limits of public transit, allowing me to travel with more freedom.
+Example Scenarios:
+- I don’t have money to cover the cost of the rental
+Solution: Company offers financing via subscription to payment plan. (pay later incrementally with interest)
+- I don’t currently have car insurance to cover my using the car during my rental period
+Solution: company offers a premium version of the insurance which covers any accidents or incidents (for a higher price point) 
+- I don’t have a valid license.
+Solution: Someone else can sign and fill out the rental agreement with a legal promissory note, which transfers all liabilities and cost the co-signer.
